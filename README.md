@@ -14,9 +14,7 @@ Changes in the settings are being sent to the SMuFF immediately, which makes tes
 Running test scripts is also much more convenient. All results created by the testscript will show within the "Run Test" panel.
 
 So far, I can confirm it runs flawlessly in either **Google Chrome** or **Microsoft Edge** browser.
-
 **Opera** browser does show the devices available but doesn't show me the "Connect" button.
-
 **Firefox** seems **not** to support the [Web Serial API](https://web.dev/serial/).
 
 ---
