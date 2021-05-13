@@ -25,4 +25,4 @@ Click [here to open this app](https://technik-gegg.github.io/SMuFF-WI/). Keep in
 
 ---
 
-I've also added my source file to this repository, which has to be opened in [Bootstrap Studio](https://bootstrapstudio.io/). This tool is not a free tool but makes editing HTML files in conjunction Bootstrap much less a pain.
+I've also added my source file to this repository, which has to be opened in [Bootstrap Studio](https://bootstrapstudio.io/). This tool is not a free tool but makes editing HTML files in conjunction with Bootstrap much less a pain.
