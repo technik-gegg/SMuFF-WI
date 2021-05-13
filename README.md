@@ -1,0 +1,2 @@
+# SMuFF-WI
+SMuFF WebInterface
