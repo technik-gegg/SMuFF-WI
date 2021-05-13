@@ -21,7 +21,7 @@ So far, I can confirm it runs flawlessly in either **Google Chrome** or **Micros
 
 **Firefox** seems **not** to support the [Web Serial API](https://web.dev/serial/).
 
-Click [here to open this app](https://technik-gegg.github.io/SMuFF-WI/). Keep in mind, this app needs firmware version **2.26 or later** on the SMuFF to run.
+Click [here to open this app](https://technik-gegg.github.io/SMuFF-WI/). Keep in mind, this app needs firmware version [2.26 or later](https://github.com/technik-gegg/SMuFF-1.1/tree/SMuFF-2.0-(Experimental)) on the SMuFF to run.
 
 ---
 
