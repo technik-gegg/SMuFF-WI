@@ -19,7 +19,8 @@ So far, I can confirm it runs flawlessly in either **Google Chrome** or **Micros
 
 ---
 
-Click [here to open this app](https://technik-gegg.github.io/SMuFF-WI/). Keep in mind, this app needs firmware version [2.26 or later](https://github.com/technik-gegg/SMuFF-1.1/tree/SMuFF-2.0-(Experimental)) on the SMuFF to run.
+Click [here](https://technik-gegg.github.io/SMuFF-WI/) to open this app with the default theme or [here](https://technik-gegg.github.io/SMuFF-WI/dark) for a dark theme.
+Keep in mind, this app needs firmware version [2.26 or later](https://github.com/technik-gegg/SMuFF-1.1/tree/SMuFF-2.0-(Experimental)) on the SMuFF to run.
 
 ---
 
