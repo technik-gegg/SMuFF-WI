@@ -2,7 +2,7 @@
 
 ![The SMuFF](images/SMuFF-WI.jpg)
 
-This is a browser app using HTML/Bootstrap 5 and it utilizes the [Web Serial API](https://web.dev/serial/). This means, no matter from what location you've opened this app, it will run locally in your browser and connect to the [SMuFF](https://sites.google.com/view/the-smuff/?authuser=43) via a serial interface. Thus, your SMuFF has to be connected to your PC either via a local (USB) serial port or via a virtual Bluetooth serial port.
+This is a browser app using HTML/Bootstrap 5 and it utilizes the [Web Serial API](https://web.dev/serial/). This means, no matter from what location you've opened this app, it will run locally in your browser and connect to the [SMuFF](https://sites.google.com/view/the-smuff/?authuser=43) via a serial interface. Thus, your SMuFF has to be connected to your PC either via a [local (USB) serial port](https://sites.google.com/view/the-smuff/tips-hints/talk-to-the-smuff?authuser=43) or via a [virtual Bluetooth serial port](https://sites.google.com/view/the-smuff/tips-hints/talk-to-the-smuff-via-bt?authuser=43).
 
 Even though the SMuFF controller has its own interface (a 128x64 display and encoder), setting up all the operating parameters on the SMuFF to match your environment might be tedious and can hardly be controlled from afar, which was my main motivation for creating this app.
 
